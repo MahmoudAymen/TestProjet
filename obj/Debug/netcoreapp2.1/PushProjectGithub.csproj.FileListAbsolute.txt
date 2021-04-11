@@ -1,0 +1,3 @@
+C:\Users\aymen\source\repos\PushProjectGithub\PushProjectGithub\obj\Debug\netcoreapp2.1\PushProjectGithub.csproj.CoreCompileInputs.cache
+C:\Users\aymen\source\repos\PushProjectGithub\PushProjectGithub\obj\Debug\netcoreapp2.1\PushProjectGithub.AssemblyInfoInputs.cache
+C:\Users\aymen\source\repos\PushProjectGithub\PushProjectGithub\obj\Debug\netcoreapp2.1\PushProjectGithub.AssemblyInfo.cs
